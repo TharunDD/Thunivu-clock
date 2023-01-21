@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+#container{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNWVjNGY5ZDktZDM5NS00NjhkLTkwNjEtMDZjYzUyZDRiNTBiXkEyXkFqcGdeQXVyMTM1OTU1MzQx._V1_.jpg");
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#clk{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    border: 3px solid white;
+    box-shadow: 8px 3px 10px wheat;
+    padding: 40px;
+    /* background-color: white; */
+
+}
+#time{
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150px;
+    text-align: center;
+}
